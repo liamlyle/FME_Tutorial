@@ -88,7 +88,7 @@ If you have any questions about content, location, time, or other ... email me a
    - Type in the word Attribute and the transformer _Attribute Manager_ should pop up. Click on it!
 9. **Connections**
    - Let us talk about how easy FME is. To connect Readers to transformers, all you gotta do is click the little arrow on the right side of our CSV Reader, and pop it into the left side of our attribute manager and we are done! You've connected your first Transformer. _"It just works."_ - Tod Howard 2015
-10.Open the Attribute Manager:
+10. **Open the Attribute Manager:**
    - Go into our attribute manager (you can do this by double clicking on it)
    - These attributes should look familiar to the ones we say back in step 7.
    - Let us do little bit of data cleaning so we can work with only pertinent data
