@@ -89,11 +89,11 @@ If you have any questions about content, location, time, or other ... email me a
 9. **Connections**
    - Let us talk about how easy FME is. To connect Readers to transformers, all you gotta do is click the little arrow on the right side of our CSV Reader, and pop it into the left side of our attribute manager and we are done! You've connected your first Transformer. _"It just works."_ - Tod Howard 2015
 10. **Open the Attribute Manager:**
-   - Go into our attribute manager (you can do this by double clicking on it)
-   - These attributes should look familiar to the ones we say back in step 7.
-   - Let us do little bit of data cleaning so we can work with only pertinent data
-   - Change that "W" (Westing) to the word "E" (Easting) and make it look like N (ft). All you gotta do is type in the text: E (ft) into the Output Attribute column! Boom you've renamed an attribute!
-   - We only want to keep these attributes, see if you can figure out how to remove other attributes (hint, look in Actions):
+   * Go into our attribute manager (you can do this by double clicking on it)
+   * These attributes should look familiar to the ones we say back in step 7.
+   * Let us do little bit of data cleaning so we can work with only pertinent data
+   * Change that "W" (Westing) to the word "E" (Easting) and make it look like N (ft). All you gotta do is type in the text: E (ft) into the Output Attribute column! Boom you've renamed an attribute!
+   * We only want to keep these attributes, see if you can figure out how to remove other attributes (hint, look in Actions):
 
 | Keep these attributes |
 | --------------------- |
