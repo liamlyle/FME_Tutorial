@@ -101,7 +101,7 @@ If you have any questions about content, location, time, or other ... email me a
 | Inclination (deg) |
 | True Vertical Depth (ft) |
 | N (ft) |
-| W (ft) |
+| E (ft) |
 
 11. Spatialize this data!
    - Add a VertexCreator transformer
