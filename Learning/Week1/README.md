@@ -126,7 +126,11 @@ X: 3553465.1633
 >
 Y: 10210975.9487
 
-14. **TBD** - Let liam know if you want to continue on with this walkthrough
+14. Lets write out to an ESRI Shapefile!
+   - Add in a writer (Orange button next to the reader button)
+   - Make it a Shapefile
+   - Write out to a location.
+   - We've now completed a whole FME workflow!!!
 >
 >
 >
