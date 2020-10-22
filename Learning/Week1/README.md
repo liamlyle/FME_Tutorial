@@ -110,7 +110,13 @@ If you have any questions about content, location, time, or other ... email me a
    - Our Z is True Vertical Depth (ft) _Make sure you put it as a negitive value_
    - Run your workspace!
    - Lets Inspect your VertexCreator (Green box with Magnifying glass)
-
+   
+#### Gotta fix the coordinate system!
+   - Currently our data only exists in an arbitrary X,Y coord system. Time to fix that.
+   - We are going to add a Reprojector transformer into our workbench and connect the VertexCreator with it
+   - Set both the source and the destination CoordSys to TX83-CF - Which if you remember from GNSS/Surveying is the NAD83 Texas Central State Plane Coord System in USFt.
+   - Run our workbench and our data should be at the 0,0 of TX83-CF (which is in the Pacific ocean to the west of Ecuador and Panama).
+   
 12. Add a LineBuilder Transfomer
    - This will make a line of your data
 13. Add in an Offsetter:
